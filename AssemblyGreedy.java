@@ -100,8 +100,6 @@ public class AssemblyGreedy {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int n=0;
-		//String fileName="C:/Users/Harish/Desktop/project2/instances.txt";
-		//int proc=2;
 		String fileName=args[0];
 		int proc=Integer.parseInt(args[1]);
 		int L=Integer.parseInt(args[2]);
