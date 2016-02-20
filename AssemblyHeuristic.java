@@ -109,8 +109,6 @@ void print(int[] output)
 }
 	public static void main(String[] args) {
 		int n=0;
-		//String fileName="C:/Users/Harish/Desktop/project2/instances.txt";
-		//int proc=5;
 		String fileName=args[0];
 		int proc=Integer.parseInt(args[1]);
 		int i=0;
