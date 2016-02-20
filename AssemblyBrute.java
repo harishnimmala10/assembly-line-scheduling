@@ -78,7 +78,6 @@ public class AssemblyBrute {
 	}
 	public static void main(String[] args) {
 		int n=0;
-		//String fileName="C:/Users/Harish/Desktop/project2/instances.txt";
 		String fileName=args[0];
 		int m=Integer.parseInt(args[1]);
 		int i=0;
