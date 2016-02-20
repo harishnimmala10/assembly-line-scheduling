@@ -64,13 +64,10 @@ public class AssemblyDynamic {
 		}
 		return sum;
 	}
-//int min(int a, int b) { return (a < b)? a : b;}
 int max(int a, int b) { return (a > b)? a : b;}
 	
 public static void main(String[] args) {
 	int n=0;
-	//String fileName="C:/Users/Harish/Desktop/project2/instances.txt";
-	//int m=2;
 	String fileName=args[0];
 	int m=Integer.parseInt(args[1]);
 	int i=0;
