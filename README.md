@@ -15,3 +15,9 @@ Four algorithms were implemented in this project
   3) Greedy algorithm that decides whether there is a solution with a load <= Ltarget and constructs such a solution if there is one.
       This has an extra input LTarget.
   4)Heuristic algorithm to find a non-optimal, but reasonable solution, in a much shorter time.
+
+File format: The first line of the file indicates the total number of tasks.The remaining lines has the processing times of these tasks. An instance with 3 tasks of processing time 10, 11 and 12 will be:
+3
+10
+11
+12
